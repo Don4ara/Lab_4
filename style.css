@@ -477,10 +477,6 @@ input:checked ~ .header-menu-list {
     }
 }
 @media (max-width: 600px) {
-    .content{
-        z-index: -6;
-        position: absolute;
-    }
     .header-menu-list {
         display: grid;
         position: absolute;
